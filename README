@@ -1,0 +1,10 @@
+README
+------
+
+lotus.py is a simple utility written in Python to manage multiple coding projects. It lets you create coding projects, switch between them, delete or archive them, retrieve information about them quickly, and create programmable templates for defining, creating, and managing project types.
+
+
+LICENSE
+------
+
+lotus.py is licensed under the GPLv3 license. You can find a copy of the GPLv3 at http://www.gnu.org/licenses/gpl.html
